@@ -1,0 +1,28 @@
+.grid {
+    margin: 0;
+    padding: 0;
+    width: 59.5px;
+    height: 50px;
+    border: none;
+    outline: 1px solid rgb(182, 127, 222);
+    display: inline-block;
+}
+
+#container {
+    position: relative;
+    top: 50px;
+    outline: solid rgb(211, 114, 211);
+    margin: auto;
+    height: 800px;
+    width: 950px;
+    padding: 0;
+    border: none; 
+}
+
+.row {
+    width: 100vw;
+}
+form:active {
+    color: cadetblue;
+}
+
