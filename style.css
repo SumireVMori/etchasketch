@@ -1,11 +1,11 @@
 .grid {
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%;
     width: 59.5px;
-    height: 50px;
+    height: 46.3px;
     border: none;
-    outline: 1px solid rgb(182, 127, 222);
-    display: inline-block;
+    outline: 1px solid rgb(211, 114, 211);
+    display: inline-flex;
 }
 
 #container {
@@ -19,10 +19,9 @@
     border: none; 
 }
 
+
 .row {
     width: 100vw;
 }
-form:active {
-    color: cadetblue;
-}
+
 
